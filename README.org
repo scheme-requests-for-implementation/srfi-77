@@ -4,7 +4,7 @@
 
 
 
-keywords: [[https://srfi.schemers.org/?keywords=r6rs-process][R6RS process]], [[https://srfi.schemers.org/?keywords=numeric][Numeric]]
+keywords: [[https://srfi.schemers.org/?keywords=r6rs-process][R6RS process]], [[https://srfi.schemers.org/?keywords=numbers][Numbers]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-77/][SRFI 77]]: Preliminary Proposal for R6RS Arithmetic, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
